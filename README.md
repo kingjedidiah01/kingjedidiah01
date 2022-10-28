@@ -27,10 +27,8 @@
 <p align="left">
     <a href="https://codepen.io/kingjedidiah01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="available" height="30" width="40" /></a>
     <a href="https://twitter.com/dking4_dbrands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dking4_dbrands" height="30" width="40" /></a>
-  
     <a href="https://m.facebook.com/akinwandem?eav=AfYCefDjggbY3dALweJub90Qh2ekT_y8Y1MHylxhEHvr97gUMFrBK48go7O0IViVY7U&paipv=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="available" height="30" width="40" /></a>
     <a href="https://www.instagram.com/king_jedidiah1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fill" height="30" width="40" /></a>
-    
       <a href="https://linkedin.com/in/king jedidiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="king jedidiah" height="30" width="40" /></a>
     <a href="https://www.behance.net/available" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="available" height="30" width="40" /></a>
     <a href="https://youtube.com/channel/UCYN0ZeAml6uLwp1Ojc1RzCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="available" height="30" width="40" /></a>
